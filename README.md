@@ -5,7 +5,7 @@
  </div>
 <br>
 
-- 🔭 Atualmente estou me aprofundando no estudo do Node.js e a utilização de suas libs
+- 🔭 Atualmente além de me aprofundar no estudo do Node.js e a utilização de suas libs, estou participando da aceleração em JAVA em parceria da Trybe com a CI&T
 - 🌱 Me familiarzando com o conceito de arquitetura <strong>SOLID</strong>
 - 🤔 Quero me especializar nos estudos de <i>I.A</i> e <i>Web Design</i>
 - 👨‍🚀 Futuro P.O (<i>Product Owner</i>) de uma empresa de sorte 😄
