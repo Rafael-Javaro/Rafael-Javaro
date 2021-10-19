@@ -6,7 +6,7 @@
 <br>
 
 - 🔭 Atualmente além de me aprofundar no estudo do Node.js e a utilização de suas libs, estou participando da aceleração em JAVA em parceria da Trybe com a CI&T
-- 🌱 Me familiarzando com o conceito de arquitetura <strong>SOLID</strong>
+- 🌱 Me familiarizando com o conceito de arquitetura <strong>SOLID</strong>
 - 🤔 Quero me especializar nos estudos de <i>I.A</i> e <i>Web Design</i>
 - 👨‍🚀 Futuro P.O (<i>Product Owner</i>) de uma empresa de sorte 😄
 
@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60">
 </p>
 <br>
 <br>
