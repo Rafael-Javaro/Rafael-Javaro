@@ -1,14 +1,9 @@
 ## Olá, tudo certo ?! 😄 👋
 
 <div align="justify">
-  Meu nome é <strong>Rafael Javaro</strong>, atualmente estudo desenvolvimento de software na <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> , procurando a evolução contínua no meu dia-a-dia. Escolhi estudar Desenvolvimento Web no momento em que percebi o quão crucial o setor de <i>dev</i> 💻 é para qualquer projeto, independente do resultado buscado, seja financeiro, filantrópico ou educacional. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
+  Meu nome é <strong>Rafael Javaro</strong>, Desenvolvedor Front-End na Mozaiko Stefanini e estudante de desenvolvimento de software na <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> , procurando a evolução contínua no meu dia-a-dia. Escolhi estudar Desenvolvimento Web no momento em que percebi o quão crucial o setor de <i>dev</i> 💻 é para qualquer projeto, independente do resultado buscado, seja financeiro, filantrópico ou educacional. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
  </div>
 <br>
-
-- 🔭 Atualmente além de me aprofundar no estudo do Node.js e a utilização de suas libs, estou participando da aceleração em JAVA em parceria da Trybe com a CI&T
-- 🌱 Me familiarizando com o conceito de arquitetura <strong>SOLID</strong>
-- 🤔 Quero me especializar nos estudos de <i>I.A</i> e <i>Web Design</i>
-- 👨‍🚀 Futuro P.O (<i>Product Owner</i>) de uma empresa de sorte 😄
 
 - 📫 **rafaeljavaro750@gmail.com**
 ----------------
