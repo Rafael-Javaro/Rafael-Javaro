@@ -1,7 +1,7 @@
 ## Olá, tudo certo ?! 😄 👋
 
 <div align="justify">
-  Meu nome é <strong>Rafael Javaro</strong>, Desenvolvedor Front-End na Mozaiko Stefanini e estudante de desenvolvimento de software na <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> , procurando a evolução contínua no meu dia-a-dia. Escolhi estudar Desenvolvimento Web no momento em que percebi o quão crucial o setor de <i>dev</i> 💻 é para qualquer projeto, independente do resultado buscado, seja financeiro, filantrópico ou educacional. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
+  Meu nome é <strong>Rafael Javaro</strong>, Desenvolvedor Front-End na Mozaiko Stefanini. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
  </div>
 <br>
 
