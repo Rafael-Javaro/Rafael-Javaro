@@ -1,7 +1,7 @@
 ## Olá, tudo certo ?! 😄 👋
 
 <div align="justify">
-  Meu nome é <strong>Rafael Javaro</strong>, Desenvolvedor Front-End na Mozaiko Stefanini. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
+  Meu nome é <strong>Rafael Javaro</strong>, Tech Lead na Mozaiko Technologies. Qualquer plano a ser desenvolvido, inevitavelmente passará pelos momentos de concepção e desenvolvimento de sua infraestrutura online, partindo de uma simples <i>landing page</i> ou um software robusto que envolva o gerenciamento de varios processos simultâneos. <strong>Tecnologia se faz no presente, projetando o futuro</strong>.
  </div>
 <br>
 
